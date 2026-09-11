@@ -1,0 +1,6 @@
+{
+  "name": "Arvena Interiors",
+  "description": "A premium, responsive furniture and interior-design e-commerce experience featuring warm architectural luxury, editorial typography, and curated living collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
